@@ -23,8 +23,6 @@ For now this is all we need :
 
 - Three roles for users : admin, helper, member 
 
-- secure message board from admin to users
-
 - secure admin interface with messaging service to users
 
 - A welcome page with direct link to CGVU and registration filter from admin
