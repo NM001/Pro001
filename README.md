@@ -25,7 +25,7 @@ For now this is all we need :
 
 - secure admin interface with messaging service to users
 
-- A welcome page with direct link to CGVU and registration filter from admin
+- A welcome page with direct link to EULA and registration filter from admin
 
 - New welcome vue for registered members with real time and location at the top
 
