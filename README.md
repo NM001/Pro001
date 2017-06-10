@@ -7,7 +7,7 @@ Hi there I am the project manager, I need your help to build a new kind of modul
 
 First, we will develop a responsive single page web app with Javascript and ArangoDB 
 
-We may not implement any library or framework except ArangoDB 3.x with Foxx, Bootstrap, or Vue.js 
+We may not implement any library or framework besides ArangoDB 3.x Foxx, Bootstrap, or Vue.js 
 
 The idea is to keep all code as clear and simple as possible
 
