@@ -29,7 +29,7 @@ For now this is all we need :
 - welcome view for registered members with both local time and location displayed at the top
 
 
-You may now join our collaborative team 
+You may now join our coding team, let's do this !
 
 Var Pro001 = new App
 
