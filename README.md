@@ -29,7 +29,7 @@ For now this is all we need :
 - welcome view for registered members with both local time and location displayed at the top
 
 
-We are the 9th of June 2017 : let's do this ! 
+You may now join our collaborative team 
 
 Var Pro001 = new App
 
