@@ -7,14 +7,14 @@ Hi there ! I am the project manager, with your help we are going to build a new 
 
 First of all we will develop a responsive single page web app with Javascript and ArangoDB 
 
-We may not implement any library or frameworks besides ArangoDB 3.x Foxx and Vue.js 
+We may not implement any library or frameworks besides ArangoDB 3.x Foxx and Vue.js just now
 
 The idea is to keep the code as clear and simple as possible from the outset
 
-May you fork a mobile app, make sure it is built as a module from the main core app
+Would you fork a mobile app, please make sure it is built as a module from the main core app
 
 
-For now this is all we need :
+So for the first stage this is all we need :
 
 - secure authentication for our online social network 
 
