@@ -3,15 +3,15 @@
 Collaborative prototype under private licence copyright (all rights reserved with NM001 prior to legal agreement)
 
 
-Hi there I am the project manager, I need your help to build a new kind of modular tool
+Hi there ! I am the project manager, with your help we are going to build a new kind of modular tool
 
-First, we will develop a responsive single page web app with Javascript and ArangoDB 
+First of all we will develop a responsive single page web app with Javascript and ArangoDB 
 
-We may not implement any library or framework besides ArangoDB 3.x Foxx, Bootstrap and Vue.js 
+We may not implement any library or frameworks besides ArangoDB 3.x Foxx and Vue.js 
 
-The idea is to keep all code as clear and simple as possible
+The idea is to keep the code as clear and simple as possible from the outset
 
-May you fork a smartphone app, make sure it is built as a module of the core app
+May you fork a mobile app, make sure it is built as a module from the main core app
 
 
 For now this is all we need :
@@ -26,7 +26,7 @@ For now this is all we need :
 
 - welcome page for visitors with direct link to EULA and registration filter from admin
 
-- welcome view for registered members with both local time and location displayed at the top
+- welcome view for registered members with local time and location displayed at the top
 
 
 You may now join our coding team, let's do this !
