@@ -1,4 +1,4 @@
-#Pro001
+@Pro001
 
 Collaborative prototype under private licence copyright (all rights reserved with NM001 prior to legal agreement)
 
@@ -11,7 +11,7 @@ We may not implement any library or frameworks besides ArangoDB 3.x Foxx and Vue
 
 The idea is to keep the code as clear and simple as possible from the outset
 
-Would you fork a mobile app, please make sure it is built as a module from the main core app
+Would you fork a mobile app, please make sure it is built as a module of the core app
 
 
 So for the first stage this is all we need :
